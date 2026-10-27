@@ -1,0 +1,10 @@
+.build-cache/
+artifacts/
+**/bin/
+**/obj/
+**/UserData/
+**/TestResults/
+*.log
+*.lnk
+settings.json
+.vs/

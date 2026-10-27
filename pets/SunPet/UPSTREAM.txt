@@ -1,0 +1,4 @@
+Repository: https://github.com/Ganzhe2028/SunPet
+Branch: main
+Commit: 9b68d0911552d8c880a46ca72980d3f9af9743ee
+Checked: 2026-10-27 Asia/Shanghai
